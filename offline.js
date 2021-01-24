@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1611411068,
+	"version": 1611483638,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -71,6 +71,7 @@
 		"images/sprite49-sheet0.png",
 		"images/sprite50-sheet0.png",
 		"images/sprite52-sheet0.png",
+		"images/sprite54-sheet0.png",
 		"media/[ontiva.com] bomb has been defused   cs go sound effect 1-hq.ogg",
 		"media/【jubeat copious】sota fujimori - polygon.ogg",
 		"media/mouse click 3.ogg",
