@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1611747621,
+	"version": 1612247215,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -91,6 +91,13 @@
 		"images/sprite65-sheet0.png",
 		"images/tip-sheet0.png",
 		"images/sprite66-sheet0.png",
+		"images/sprite67-sheet0.png",
+		"images/sprite68-sheet0.png",
+		"images/sprite69-sheet0.png",
+		"images/sprite70-sheet0.png",
+		"images/sprite71-sheet0.png",
+		"images/sprite72-sheet0.png",
+		"images/vision-sheet0.png",
 		"media/[ontiva.com] bomb has been defused   cs go sound effect 1-hq.ogg",
 		"media/【jubeat copious】sota fujimori - polygon.ogg",
 		"media/mouse click 3.ogg",
@@ -99,6 +106,7 @@
 		"media/bunnymajs - blippblipp.ogg",
 		"media/y2mate.com - red alert 2  grinder.ogg",
 		"media/[ontiva.com]-cash register (kaching) - sound effect (hd)-hq.ogg",
+		"media/[ontiva.com]-black ops 2 soundtrack_ adrenaline-hq.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
